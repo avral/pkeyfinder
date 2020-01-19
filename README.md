@@ -1,5 +1,6 @@
 # pkeyfinder
 Bitcoin private key directory finder
+>> developed on #miamibitcoinhackathon
 
 ### Usage
 ```
